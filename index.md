@@ -2,6 +2,8 @@
 
 This guide was composed by several students from DKE.
 
+**WARNING: This guide hasn't been updated in years and is therefore not a reliable source. It is currently being reviewed and updated. Use at your own risk.**
+
 ## Living
 
 ### Housing
