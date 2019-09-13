@@ -55,7 +55,7 @@ Also Incognito serves coffee from time to time. (Check with members)
 
 ### Must have
 
-* Work late at night, or long hours on PC? Install F.Lux <br/>
+* Work late at night, or long hours on PC? Install F.Lux or Redshift <br/>
 	_(Ensures your eyes will last)_
 
 * Gym & Sports all year == 180€ @ UM Sport <br/>
@@ -173,25 +173,6 @@ Also Incognito serves coffee from time to time. (Check with members)
 	* Setup a group of students to review the course material. Split it up into sessions for making exercises and theory review. Get an experienced student to help with the theory review.
 	* Help a group of students if you are experienced. The best way to review theory is to see if you can explain it to someone else.
 
-## Professors
-
-* Prof. Kelk: Don't miss a single lecture. He is the best at explaining complex subjects.
-
-		Seriously
-    
-* Prof. Thuijsman: Don't miss a single lecture. His syllabi tend to not cover techniques he explains in class.
-
-		Double seriously, you'll hate yourself come exam.
-       
-* Prof. Karel: Pay attention and write down everything said in his lectures. It will come back on exams.
-
-		It might save you an extra YEAR of studying
-        
-* Prof. Collins: Don't get scared when he goes down the rabbit hole with mathematical proof. Try to follow, but rest assured you will not need to replicate the proof on your own. He usually summarizes the end result, and the process provides insight into why things are the way they are. Just be glad you are there along for the ride, you won't get the chance too often.
-
-* Prof. Paredis: Often overlooked, but a potential source of terrifyingly on-point and difficult questions during project review. Be respectful and he will give you insight into your project problem.
-
-
 ## Thesis
 
 * Pick a topic that you know you can finish in 30% of the time.
@@ -224,7 +205,7 @@ Also Incognito serves coffee from time to time. (Check with members)
 
 ## Misc
 
-* Best toilet on DKE is on the first floor, one of the left. (When you go upwards from 0.015)
+* 
 
 ### Transport
 
