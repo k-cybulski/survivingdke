@@ -2,7 +2,9 @@
 
 This guide was composed by several students from DKE.
 
-A [new part](#Try-hard-mode) has been added at the end. It mostly concerns high-achieving and/or very career-oriented students (some of it is straight-up try-harding ¯\_(ツ)_/¯).
+It has been reviewed recently (05/02/2020) but still needs improvement. A [new part](#Try-hard-mode) has been added at the end. It mostly concerns high-achieving and/or very career-oriented students.
+
+Any opinion on this guide is attributed to the person who wrote it and is not a statement from Incognito.
 
 ## Living
 
@@ -217,7 +219,7 @@ For additional material regarding undergraduate studies and gaining experience, 
 
 #### Honours programme
 
-Students with a good GPA ($\geq 7.5$) are invited to join the honours programme. You can get experience in industry and get a small salary (KE@Work) or get research experience and potentially publish a paper (even before your thesis!) (MaRBLe).
+Students with a good GPA (>7.5) are invited to join the honours programme. You can get experience in industry and get a small salary (KE@Work) or get research experience and potentially publish a paper (even before your thesis!) (MaRBLe).
 
 Pros of KE@Work:
 * A small stipend (€500-550)
