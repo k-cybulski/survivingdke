@@ -2,11 +2,14 @@
 
 This guide was composed by several students from DKE.
 
-It has been reviewed recently (05/02/2020) but still needs improvement. A [new part](#try-hard-mode) has been added at the end. It mostly concerns high-achieving and/or very career-oriented students.
+It has been reviewed on 05/02/2020 but still needs improvement. A [new part](#try-hard-mode) has been added at the end. It mostly concerns high-achieving and/or very career-oriented students.
 
 Any opinion on this guide is attributed to the person who wrote it and is not a statement from Incognito.
 
 ## Living
+
+### Sustainability guide
+Maastricht for climate has a very handy and complete guide on how to be sustainable in Maastricht. It can be found [here](https://www.maastrichtforclimate.nl/sustainability-guide/).
 
 ### Housing
 
