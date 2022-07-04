@@ -14,8 +14,9 @@ Maastricht for climate has a very handy and complete guide on how to be sustaina
 ### Housing
 
 * Sign up with [Maastricht Housing](https://www.maastrichthousing.com) ASAP. Housing waiting lists are done based on the time you've been registered.
-* A 'normal' student rooms runs about 300-450€ out of the centre, 400€-500€ in centre. Expect to pay about 50€ more in your first year.
+* Small student rooms runs about 300-450€ out of the centre, 400€-500€ in centre. Expect to pay about 50€ more in your first year.
 * Room availability tends to be highest December-May; as most students finish their study then, coupled with low demand. 
+* Pre-rent before your arrival if necessary
 
 ### Food
 
@@ -88,10 +89,9 @@ Decent, not too expensive (by Maastricht standards)
 
 ### Books & Articles:
 
-* PDF/Epubs of books and articles you legally own can be easily obtained from:
-	http://gen.lib.rus.ec/
-	_(All sorts of literature, including comics etc)_
-    Also see:
+* Use the [library search](https://library.maastrichtuniversity.nl/) while being authenticated with your UM account 
+* PDF/Epubs of books and articles can be obtained from: Library Genesis _(All sorts of literature, including comics etc)_
+    See:
     * https://en.m.wikipedia.org/wiki/Sci-Hub
     * https://en.m.wikipedia.org/wiki/Library_Genesis
     * https://en.m.wikipedia.org/wiki/Library.nu
@@ -233,9 +233,10 @@ Pros of KE@Work:
 * Two year project (no normal projects)
 * Two years of intern/job experience after graduating
 * A lot of time to work on the topic of your thesis
+* Again, you don't need to do the projects
 
 Cons of KE@Work:
-* Not that much money compared to an actual job
+* Little money compared to an actual job
 * Two year commitment (no possibility of going abroad, have to work during summers)
 * Usually your bachelor thesis has to be on the topic that you explore in the company
 * People sometimes have really bad experiences (company goes bankrupt, project is uninteresting, company does not treat your properly)
