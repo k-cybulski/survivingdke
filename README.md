@@ -1,5 +1,5 @@
-# survivingdke
-A survival guide to the Department of Knowledge Engineering at Maastricht University.
+# Surviving DACS
+A survival guide to the Department of Advanced Computing Sciences at Maastricht University.
 
 Link:  https://msvincognito.github.io/survivingdke/ 
 
