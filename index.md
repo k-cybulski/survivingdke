@@ -1,8 +1,8 @@
-# DKE Maastricht University Survival guide
+# DACS Maastricht University Survival guide
 
-This guide was composed by several students from DKE.
+This guide was composed by several students from DACS (formally DKE).
 
-It has been reviewed on 05/02/2020 but still needs improvement. A [new part](#try-hard-mode) has been added at the end. It mostly concerns high-achieving and/or very career-oriented students.
+It has been reviewed on 05/07/2022 but still needs improvement, especially updates to the prices and relevant information for possibilities around the new building at Paul-Henri Spaaklaan 1. A [new part](#try-hard-mode) has been added at the end. It mostly concerns high-achieving and/or very career-oriented students.
 
 Any opinion on this guide is attributed to the person who wrote it and is not a statement from Incognito.
 
@@ -13,8 +13,8 @@ Maastricht for climate has a very handy and complete guide on how to be sustaina
 
 ### Housing
 
-* Sign up with Maastricht Housing ASAP. Housing waiting lists are done based on the time you've been registered.
-* A 'normal' student rooms runs about 250-350€ out of the centre, 350€-450€ in centre. Expect to pay about 50€ more in your first year.
+* Sign up with [Maastricht Housing](https://www.maastrichthousing.com) ASAP. Housing waiting lists are done based on the time you've been registered.
+* A 'normal' student rooms runs about 300-450€ out of the centre, 400€-500€ in centre. Expect to pay about 50€ more in your first year.
 * Room availability tends to be highest December-May; as most students finish their study then, coupled with low demand. 
 
 ### Food
@@ -28,7 +28,7 @@ Decent, not too expensive (by Maastricht standards)
 | General | Mensa  | Near Economy Faculty | € (Use UM card) |
 | Burrito  | With love burrito | Markt | €€ |
 | Dinner | Preuverij | Kakeberg 6 (Near SSC) | €€ |
-| Pizza with group  | Donatello's | Tongersestraat 30 (Near DKE) | €€ |
+| Pizza with group  | Donatello's | Tongersestraat 30 (Near Tapijn) | €€ |
 | Vietnamese  | Saigon Cuisine |  Boschstraat 113 (near Market)  | €€ |
 | Takeout Grill  | Paru |     | € (Special 5€ deal on pizza) |
 
@@ -37,7 +37,7 @@ Decent, not too expensive (by Maastricht standards)
 | Type  | Location | Where | Price |
 | --- | --- | --- | --- |
 | General | Cato-by-Cato  | Near Library | € |
-| General | Cafetaria ToneelAcademi | Next to DKE (\*) | € |
+| General | Cafetaria ToneelAcademi | Next to Tapijn (\*) | € |
 | Sandwich  | Delibelge | Near DKE | €€ |
 | Breakfast  | HEMA |  Centre of Town  | €€ |
 
@@ -59,7 +59,11 @@ Decent, not too expensive (by Maastricht standards)
 
 * Gym & Sports all year == 180€ @ UM Sport <br/>
 	_Do some form of sport (e.g.: bouldering) as even the tiniest bit of exercise will give you energy._
- 
+
+* Get a bike as soon as possible, you can get an used "omafiets" for around 50 €; also be aware of an old saying "In Maastricht you don't buy a bike, you rent it temporarily." so don't get anything to fancy or it _will_ be stolen. Only get a [Swapfiets](https://swapfiets.nl/en-NL) if you need to bridge a short period as it is very expensive.
+
+* Get an [OV-chipkaart](https://www.ov-chipkaart.nl/home-1.htm) to use public transport. If you have friends or family coming to visit you, you can get them an "NS fiets" from the station if you sign up for a free subscription.
+
 ## Uni
  
 ### Projects
@@ -220,7 +224,7 @@ Some companies value soft skills. Some do not care that much about them and focu
 
 For additional material regarding undergraduate studies and gaining experience, consult the blog of Andrej Karpathy (a leading researcher in AI): https://cs.stanford.edu/people/karpathy/advice.html
 
-#### Honours programme
+#### Honours programme (Bachelor students)
 
 Students with a good GPA (>7.5) are invited to join the honours programme. You can get experience in industry and get a small salary (KE@Work) or get research experience and potentially publish a paper (even before your thesis!) (MaRBLe).
 
@@ -252,7 +256,7 @@ More info at: https://www.maastrichtuniversity.nl/research/institutes/dke/honour
 
 #### Internships
 
-*Do something during your summer.* It is indeed difficult to do an internship during summer as DKE students have short (~2 month) summers. However, it is still possible to find them. In addition, it is possible to get a part-time and/or remote internship during your studies.
+It is indeed difficult to do an internship during summer as DKE students have short (~2 month) summers. However, it is still possible to find them. In addition, it is possible to get a part-time and/or remote internship during your studies.
 `Protip: if you are interested working on an open source project during summer and getting paid for it, check out https://summerofcode.withgoogle.com/ and https://socis.esa.int/`
 
 #### Mentorships
@@ -265,7 +269,7 @@ In order to get IT jobs, you will most likely need to already have experience. B
 
 If you are in need of income and think that you have some time in the weekends, consider looking for work that needs doing in the weekends (duh) or work that has flexible schedules.
 
-Consider becoming a **Student ambassador** for FSE or UM. Extra €100-300/month (depending on amount of events) for relatively not much work. More info at https://www.maastrichtuniversity.nl/maastricht-university-ambassadors-team.
+Consider becoming a **Student ambassador** for FSE or UM. Extra €100-150/month (depending on amount of events) for relatively not much work. More info at https://www.maastrichtuniversity.nl/maastricht-university-ambassadors-team.
 `Protip: incquire about the salary/hour - it depends on your age (if you are 21+, you get the biggest salary). Note: KE@Work people might not be eligible for tax reduction and thus earn less, inquire further to potentially apply for tax reduction.`
 
 ### Healthy, efficient, and productive mind and body
@@ -293,7 +297,7 @@ If you are intrigued by this, you could buy a $CO_2$ monitor, track the $CO_2$ l
 
 #### Ergononomic computer accessories
 
-DKE students spend a lot of their time on computers. Our hand placement, sitting posture, viewing degree and distance are often not natural. Long-term effects can arise over time and can be a huge pain in the ass (sometimes literally) in the future. Thus:
+DACS students spend a lot of their time on computers. Our hand placement, sitting posture, viewing degree and distance are often not natural. Long-term effects can arise over time and can be a huge pain in the ass (sometimes literally) in the future. Thus:
 * It is a good idea to invest some time into creating a comfortable and harmless workstation. 
 * Get an ergonomic mouse, some stand for your screen/laptop and other ergonomic accessories.
 
@@ -303,5 +307,5 @@ It is easy to get distracted from things you need to do. Apps like `todoist` and
 
 #### Listening to audiobooks
 
-We, DKE students, do not have much time for just sitting down and enjoying a book. Unfortunately, we spend quite a bit of time in our daily lives commuting, grocery shopping, cooking, cleaning, and doing other not cognitively straining tasks. **This is a perfect opportunity to listen to your favourite audiobook!** You would be surprised how much time you spend doing these things, it is easy to go through 3-4 audiobooks per academic year. Consider investing into Audible for getting access to a wide variety of audiobooks.
+We, DACS students, do not have much time for just sitting down and enjoying a book. Unfortunately, we spend quite a bit of time in our daily lives commuting, grocery shopping, cooking, cleaning, and doing other not cognitively straining tasks. **This is a perfect opportunity to listen to your favourite audiobook!** You would be surprised how much time you spend doing these things, it is easy to go through 3-4 audiobooks per academic year. Consider investing into Audible for getting access to a wide variety of audiobooks.
 `Protip: check out https://librivox.org/ for free audiobooks recorded by volunteers.`
