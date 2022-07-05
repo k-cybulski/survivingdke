@@ -180,6 +180,10 @@ Decent, not too expensive (by Maastricht standards)
 * Realize that "even bad results are results" is a blatant lie.
 	* On that note: *DO NOT* falsify results.
 
+## A word about grades
+
+This document has different authors therefore also slightly different opinions on matters. In contrast to what has been written in [the last chapter](#try-hard-mode) if you don't identify the necessary resources to participate in extra activities then simply don't do it. It is very easy to dissipate your energies facing the many offers at UM. Furthermore, one rather calming theme for your studies can and should be: *Do not care about grades.* 
+The only truly relevant challenge is to pass a course, even with a six. Especially many Bachelor students start of from high school where they are used to easy-As and perfectionism developed. It will not help you trying to keep up with that. The Dutch and even more Maastricht grading system is meant to keep you at a very average sounding grade and it takes immense skill to get an 8.5+ average GPA. Keep in mind that in your home country the best grade does not translate to a ten in the Dutch system. For example: The best grade in the German one-to-six system (where lower is better) 1.0 [can be translated](https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaaaamlewj) to 8.5 at UM. Also, there is not a good reason to compare yourself to much to your fellow students or you will be discouraged.
 
 ## Social
 
