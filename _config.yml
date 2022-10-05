@@ -1,8 +1,10 @@
-title: Survivingdke
-description: A survival guide to the Department of Knowledge Engineering at Maastricht University
-google_analytics: 
+title: Surviving DACS
+description: A survival guide to the Department of Advanced Computing Sciences at Maastricht University
 show_downloads: true
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+- jekyll-remote-theme
 
 gems:
   - jekyll-mentions
