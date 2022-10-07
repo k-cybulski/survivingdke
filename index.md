@@ -1,6 +1,6 @@
 # DACS Maastricht University Survival guide
 
-This guide was composed by several students from DACS (formally DKE).
+This guide was composed by several students from DACS (formerly DKE).
 
 It has been reviewed on 05/07/2022 but still needs improvement, especially updates to the prices and relevant information for possibilities around the new building at Paul-Henri Spaaklaan 1. A [new part](#try-hard-mode) has been added at the end. It mostly concerns high-achieving and/or very career-oriented students.
 
